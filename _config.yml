@@ -2,32 +2,32 @@
 # language
 language: en
 # avatar
-avatar: img/assets/cat.png
+avatar: img/assets/logo.png
 # author
-author: longlongyu
+author: 邦Ben
 # signature
-signature: for me
+signature: 求同存异
 # friends
-friends:
-  friendA: //github.com/Longlongyu
-  friendB: //github.com/
-  friendC: //github.com/
+# friends:
+#   friendA: //github.com/Longlongyu
+#   friendB: //github.com/
+#   friendC: //github.com/
 # SNS
 social:
   email: 
-  github: //github.com/
-  weibo: //www.weibo.com
-  facebook: //www.facebook.com
-  twitter: //twitter.com
+  github: https://github.com/linwenbang
+  # weibo: //www.weibo.com
+  # facebook: //www.facebook.com
+  # twitter: //twitter.com
   rss: /atom.xml
 
 # —————————— Site —————————— #
 # title of the site
-SEO_title: Mr.Long's Blog
+SEO_title: 邦Ben's Blog
 # main title
-main_title: Mr.Long's Blog
+main_title: 邦Ben's Blog
 # subtitle
-subtitle: Welcome to my Blog!
+subtitle: 宁静致远
 # site haeder image
 site_header_image: '/img/intro/index-bg.png'
 # post haeder image
@@ -46,7 +46,7 @@ intro_height: 70
 # enable toc
 toc: true
 # word count & reading time
-reading_info: false
+reading_info: true
 # enable Busuanzi analytics
 busuanzi: true
 # display updated time, if the post dose not define 'updated', the system modification time will be displayed.
